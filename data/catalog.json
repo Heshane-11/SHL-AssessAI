@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-numerical-reasoning/",
+    "description": "Measures ability to make correct decisions from numerical data. Suitable for quantitative roles.",
+    "duration": "17 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Numerical reasoning",
+      "Data interpretation",
+      "Statistical analysis"
+    ]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-verbal-reasoning/",
+    "description": "Assesses ability to understand and evaluate written information.",
+    "duration": "17 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Verbal reasoning",
+      "Reading comprehension",
+      "Logical deduction"
+    ]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-inductive-reasoning/",
+    "description": "Measures ability to draw conclusions from abstract patterns. Useful for technical roles.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Inductive reasoning",
+      "Pattern recognition",
+      "Abstract thinking"
+    ]
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/verify-deductive-reasoning/",
+    "description": "Assesses logical reasoning by presenting arguments for evaluation.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "A",
+    "skills_measured": [
+      "Deductive reasoning",
+      "Logical analysis",
+      "Critical thinking"
+    ]
+  },
+  {
+    "name": "OPQ32",
+    "url": "https://www.shl.com/solutions/products/opq/",
+    "description": "Occupational Personality Questionnaire measuring 32 personality characteristics relevant to work.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "P",
+    "skills_measured": [
+      "Relationships",
+      "Thinking style",
+      "Feelings and emotions",
+      "Leadership",
+      "Teamwork"
+    ]
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/motivation-questionnaire/",
+    "description": "Assesses conditions and circumstances that increase or decrease motivation at work.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "M",
+    "skills_measured": [
+      "Intrinsic motivation",
+      "Achievement drive",
+      "Work environment preferences"
+    ]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/java-8/",
+    "description": "Measures knowledge and practical skills in Java 8 including OOP, streams, and lambdas.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "Java 8 features",
+      "OOP",
+      "Lambda expressions",
+      "Stream API",
+      "Collections"
+    ]
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/python/",
+    "description": "Assesses Python programming including core syntax, data structures, and libraries.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "Python syntax",
+      "Data structures",
+      "OOP in Python",
+      "Standard libraries"
+    ]
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/sql/",
+    "description": "Evaluates SQL knowledge for database querying including joins, subqueries, and optimization.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "SQL queries",
+      "Joins",
+      "Database design",
+      "Query optimization"
+    ]
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/javascript/",
+    "description": "Tests JavaScript knowledge covering ES6+, DOM manipulation, and async programming.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "JavaScript ES6+",
+      "DOM",
+      "Async/await",
+      "Promises"
+    ]
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/situational-judgement/",
+    "description": "Work-relevant scenarios assessing decision making and workplace challenge response.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "B",
+    "skills_measured": [
+      "Decision making",
+      "Problem solving",
+      "Interpersonal skills",
+      "Customer focus"
+    ]
+  },
+  {
+    "name": "Customer Contact Styles Questionnaire",
+    "url": "https://www.shl.com/solutions/products/customer-contact-styles/",
+    "description": "Measures personality traits for customer-facing roles including service orientation.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "P",
+    "skills_measured": [
+      "Customer orientation",
+      "Emotional resilience",
+      "Service mindset"
+    ]
+  },
+  {
+    "name": "Sales Achievement Predictor (SalesAP)",
+    "url": "https://www.shl.com/solutions/products/sales-achievement-predictor/",
+    "description": "Predicts sales performance by measuring personality traits linked to sales success.",
+    "duration": "30 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "P",
+    "skills_measured": [
+      "Sales drive",
+      "Prospecting",
+      "Closing skills",
+      "Persistence"
+    ]
+  },
+  {
+    "name": "Verify G+ Cognitive Ability",
+    "url": "https://www.shl.com/solutions/products/verify-g-plus/",
+    "description": "Next-generation adaptive cognitive ability combining numerical and verbal reasoning.",
+    "duration": "36 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Cognitive ability",
+      "Numerical reasoning",
+      "Verbal reasoning",
+      "Processing speed"
+    ]
+  },
+  {
+    "name": "General Mental Ability (GMA)",
+    "url": "https://www.shl.com/solutions/products/gma/",
+    "description": "Measures overall cognitive ability as a broad predictor of job performance.",
+    "duration": "30 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Cognitive ability",
+      "Problem solving",
+      "Learning agility"
+    ]
+  },
+  {
+    "name": "Technology Professional 8.0 — Short",
+    "url": "https://www.shl.com/solutions/products/technology-professional/",
+    "description": "Cognitive ability test calibrated for technology professionals covering reasoning skills.",
+    "duration": "36 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Numerical reasoning",
+      "Verbal reasoning",
+      "Inductive reasoning"
+    ]
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "url": "https://www.shl.com/solutions/products/universal-competency-framework/",
+    "description": "Research-based framework covering eight competency factors for talent assessment.",
+    "duration": "Varies",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "C",
+    "skills_measured": [
+      "Leading",
+      "Supporting",
+      "Analyzing",
+      "Creating",
+      "Interacting"
+    ]
+  },
+  {
+    "name": "Leadership 360",
+    "url": "https://www.shl.com/solutions/products/360/",
+    "description": "Multi-rater feedback tool assessing leadership effectiveness across key behavioral competencies.",
+    "duration": "30 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "D",
+    "skills_measured": [
+      "Leadership",
+      "Decision making",
+      "Communication",
+      "Strategic thinking"
+    ]
+  },
+  {
+    "name": "Call Center Simulator",
+    "url": "https://www.shl.com/solutions/products/call-center-simulator/",
+    "description": "Realistic call center simulation assessing customer service, multitasking, and data entry.",
+    "duration": "30 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "S",
+    "skills_measured": [
+      "Customer service",
+      "Multitasking",
+      "Data entry",
+      "Call handling"
+    ]
+  },
+  {
+    "name": "Coding Simulations (General)",
+    "url": "https://www.shl.com/solutions/products/coding-simulations/",
+    "description": "Practical coding exercises simulating real software engineering tasks.",
+    "duration": "30 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "S",
+    "skills_measured": [
+      "Coding proficiency",
+      "Problem solving",
+      "Algorithm design",
+      "Debugging"
+    ]
+  },
+  {
+    "name": "Workplace English (Business)",
+    "url": "https://www.shl.com/solutions/products/workplace-english/",
+    "description": "Assesses English language proficiency in business contexts.",
+    "duration": "35 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "Business English",
+      "Grammar",
+      "Reading comprehension"
+    ]
+  },
+  {
+    "name": "Agile Profile",
+    "url": "https://www.shl.com/solutions/products/agile-profile/",
+    "description": "Measures agile mindset and behaviors for agile software development environments.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "P",
+    "skills_measured": [
+      "Agile mindset",
+      "Collaboration",
+      "Adaptability",
+      "Iterative thinking"
+    ]
+  },
+  {
+    "name": "Dependability & Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/dsi/",
+    "description": "Assesses personality traits related to workplace safety and reliability for safety-critical roles.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "P",
+    "skills_measured": [
+      "Safety orientation",
+      "Dependability",
+      "Integrity",
+      "Risk awareness"
+    ]
+  },
+  {
+    "name": "Remote Work Assessment",
+    "url": "https://www.shl.com/solutions/products/remote-work-assessment/",
+    "description": "Evaluates suitability for remote work assessing self-discipline and digital collaboration.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "P",
+    "skills_measured": [
+      "Self-management",
+      "Remote communication",
+      "Time management"
+    ]
+  },
+  {
+    "name": "Verify Interactive — Numerical",
+    "url": "https://www.shl.com/solutions/products/verify-interactive/",
+    "description": "Simulation-based numerical reasoning assessment replicating real work scenarios.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "S",
+    "skills_measured": [
+      "Numerical reasoning in context",
+      "Business data analysis"
+    ]
+  },
+  {
+    "name": "Graduate 8.0 — Numerical",
+    "url": "https://www.shl.com/solutions/products/graduate-8/",
+    "description": "Graduate-level numerical reasoning test calibrated for recent graduates.",
+    "duration": "17 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Numerical reasoning",
+      "Data analysis"
+    ]
+  },
+  {
+    "name": "Graduate 8.0 — Verbal",
+    "url": "https://www.shl.com/solutions/products/graduate-8/",
+    "description": "Graduate-level verbal reasoning test measuring comprehension and critical evaluation.",
+    "duration": "17 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "Yes",
+    "test_type": "A",
+    "skills_measured": [
+      "Verbal reasoning",
+      "Reading comprehension"
+    ]
+  },
+  {
+    "name": "C# (New)",
+    "url": "https://www.shl.com/solutions/products/csharp/",
+    "description": "Evaluates C# programming knowledge including .NET concepts, LINQ, and async programming.",
+    "duration": "25 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "C# syntax",
+      ".NET framework",
+      "LINQ",
+      "Async programming",
+      "OOP"
+    ]
+  },
+  {
+    "name": "Core Java (Advanced Level)",
+    "url": "https://www.shl.com/solutions/products/core-java/",
+    "description": "Advanced Java assessment covering multithreading, design patterns, JVM internals and performance.",
+    "duration": "35 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "K",
+    "skills_measured": [
+      "Advanced Java",
+      "Multithreading",
+      "Design patterns",
+      "JVM",
+      "Performance tuning"
+    ]
+  },
+  {
+    "name": "Managerial & Professional Learning Styles",
+    "url": "https://www.shl.com/solutions/products/learning-styles/",
+    "description": "Identifies how managers prefer to learn, guiding training and development programs.",
+    "duration": "20 minutes",
+    "remote_testing": "Yes",
+    "adaptive_irt": "No",
+    "test_type": "D",
+    "skills_measured": [
+      "Learning preference",
+      "Development readiness",
+      "Reflective observation"
+    ]
+  }
+]
